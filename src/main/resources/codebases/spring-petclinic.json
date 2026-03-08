@@ -1,0 +1,21 @@
+{
+  "id": "spring-petclinic",
+  "name": "Spring PetClinic",
+  "repository": "https://github.com/spring-projects/spring-petclinic",
+  "language": "Java",
+  "framework": "Spring Boot",
+  "analyzedAsOf": "",
+
+  "architecture": {
+    "style": "",
+    "description": ""
+  },
+
+  "entryPoints": [],
+
+  "modules": [],
+
+  "keyConcepts": [],
+
+  "notes": ""
+}

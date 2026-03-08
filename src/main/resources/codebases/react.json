@@ -1,0 +1,21 @@
+{
+  "id": "react",
+  "name": "React",
+  "repository": "https://github.com/facebook/react",
+  "language": "JavaScript",
+  "framework": "Library",
+  "analyzedAsOf": "",
+
+  "architecture": {
+    "style": "",
+    "description": ""
+  },
+
+  "entryPoints": [],
+
+  "modules": [],
+
+  "keyConcepts": [],
+
+  "notes": ""
+}

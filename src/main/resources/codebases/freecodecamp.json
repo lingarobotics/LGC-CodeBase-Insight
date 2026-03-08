@@ -1,0 +1,21 @@
+{
+  "id": "freecodecamp",
+  "name": "freeCodeCamp",
+  "repository": "https://github.com/freeCodeCamp/freeCodeCamp",
+  "language": "JavaScript",
+  "framework": "Full Stack",
+  "analyzedAsOf": "",
+
+  "architecture": {
+    "style": "",
+    "description": ""
+  },
+
+  "entryPoints": [],
+
+  "modules": [],
+
+  "keyConcepts": [],
+
+  "notes": ""
+}
