@@ -1,30 +1,22 @@
 package com.lgc.codebaseinsight.learning.model;
 
+import java.util.List;
+
 public class Codebase {
 
+    private String id;
     private String name;
-    private String description;
-    private String repositoryUrl;
+    private String repository;
+    private String language;
+    private String framework;
+    private String analyzedAsOf;
 
-    public Codebase() {
-    }
+    private Architecture architecture;
 
-    public Codebase(String name, String description, String repositoryUrl) {
-        this.name = name;
-        this.description = description;
-        this.repositoryUrl = repositoryUrl;
-    }
+    private List<String> entryPoints;
+    private List<String> modules;
+    private List<String> keyConcepts;
 
-    public String getName() {
-        return name;
-    }
-
-    public String getDescription() {
-        return description;
-    }
-
-    public String getRepositoryUrl() {
-        return repositoryUrl;
-    }
+    private String notes;
 
 }
