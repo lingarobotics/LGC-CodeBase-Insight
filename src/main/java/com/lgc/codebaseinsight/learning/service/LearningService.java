@@ -1,8 +1,12 @@
 package com.lgc.codebaseinsight.learning.service;
 
-import org.springframework.stereotype.Service;
+import com.lgc.codebaseinsight.learning.model.Codebase;
+import java.util.List;
 
-@Service
-public class LearningService {
+public interface LearningService {
+
+    List<Codebase> getAllCodebases();
+
+    Codebase getCodebaseById(String id);
 
 }
